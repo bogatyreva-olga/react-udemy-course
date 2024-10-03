@@ -1,0 +1,12 @@
+* {/home/obogatyreva/MyProjects/react-udemy-course/12-state-via-props/src
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  color: #fff;
+  background-color: #112d49  ;
+}
